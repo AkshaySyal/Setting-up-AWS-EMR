@@ -1,4 +1,4 @@
-# Setting-up-AWS-EMR
+# WordCount-Benchmark-on-Spark-and-Hadoop
 Learned about setting up AWS EMR on AWS Cloud and setting up a local testing environment in Docker. <br>
 Implemented and compared performance of **MapReduce** and **Spark** Word Count programs on AWS.
 
